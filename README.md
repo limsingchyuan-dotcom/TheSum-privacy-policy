@@ -24,7 +24,7 @@
 
 <p>If you have any questions about this Privacy Policy please contact us.</p>
 
-<p>Email: your@email.com</p>
+<p>Email: limsingchyuan@icloud.com</p>
 
 </body>
 </html>
